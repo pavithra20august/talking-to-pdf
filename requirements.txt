@@ -1,0 +1,7 @@
+streamlit
+langchain
+sentence-transformers
+transformers
+faiss-cpu
+PyMuPDF
+langchain-community
